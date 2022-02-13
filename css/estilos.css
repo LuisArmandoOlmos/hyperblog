@@ -52,6 +52,12 @@ body
     padding: 1em;
 }
 
+#post #equipo
+{
+    width: 100%;
+    vertical-align: middle;
+}
+
 #footer
 {
     background: #777;
